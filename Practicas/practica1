@@ -1,2 +1,17 @@
 """ Practica 1 """
 
+##Ejercicio 1
+
+print(3 + 5)
+
+##Ejercicio 6
+
+print("Mi primer programa en Python")
+
+##Ejercicio 7
+
+print("v\ne\nr\nt\ni\nc\na\nl")
+
+##Ejercicio 8
+
+print("*\n*\n*\n*\n****")
