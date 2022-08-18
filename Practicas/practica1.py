@@ -16,4 +16,17 @@ print("v\ne\nr\nt\ni\nc\na\nl")
 
 print("*\n*\n*\n*\n****")
 
-#Ejercicio 9
+##Ejercicio 9
+
+print ("*\n***\n****\n*****\n******")
+
+##ejercicio 10
+
+input("introduce un dato = ")
+
+##ejerciciop 11
+
+resultado = input("resultado")
+
+print("*********************\n El resultado es ", resultado, "\n*********************")
+
