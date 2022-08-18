@@ -15,3 +15,5 @@ print("v\ne\nr\nt\ni\nc\na\nl")
 ##Ejercicio 8
 
 print("*\n*\n*\n*\n****")
+
+#Ejercicio 9
